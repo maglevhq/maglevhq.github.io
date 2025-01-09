@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.maglev.dev</loc>
-    <lastmod>2022-11-28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.maglev.dev</loc>
-    <lastmod>2024-08-20</lastmod>
-  </url>
-  <url>
     <loc>https://www.maglev.dev/privacy-policy</loc>
     <lastmod>2022-09-14</lastmod>
   </url>
@@ -71,6 +63,18 @@
   <url>
     <loc>https://www.maglev.dev/we-dont-need-no-services</loc>
     <lastmod>2023-01-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maglev.dev/about</loc>
+    <lastmod>2024-01-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maglev.dev</loc>
+    <lastmod>2024-01-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maglev.dev</loc>
+    <lastmod>2025-01-09</lastmod>
   </url>
   <url>
     <loc>https://www.maglev.dev</loc>
@@ -157,14 +161,6 @@
     <lastmod>2024-01-22</lastmod>
   </url>
   <url>
-    <loc>https://www.maglev.dev/about</loc>
-    <lastmod>2024-01-22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.maglev.dev</loc>
-    <lastmod>2024-01-25</lastmod>
-  </url>
-  <url>
     <loc>https://www.maglev.dev</loc>
     <lastmod>2024-02-26</lastmod>
   </url>
@@ -199,5 +195,13 @@
   <url>
     <loc>https://www.maglev.dev/sdfsdf</loc>
     <lastmod>2024-06-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maglev.dev</loc>
+    <lastmod>2024-09-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.maglev.dev</loc>
+    <lastmod>2024-12-27</lastmod>
   </url>
 </urlset>
